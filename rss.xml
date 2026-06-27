@@ -16,6 +16,12 @@
     </itunes:owner>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://meisam81.github.io/soul-of-a-new-machine-audiobook/cover.jpg"/>
+    <image>
+      <url>https://meisam81.github.io/soul-of-a-new-machine-audiobook/cover.jpg</url>
+      <title>The Soul of a New Machine — Audiobook</title>
+      <link>https://meisam81.github.io/soul-of-a-new-machine-audiobook/</link>
+    </image>
     <copyright>Original content © Tracy Kidder. This recording is a personal AI-narrated project.</copyright>
     <lastBuildDate>Sat, 27 Jun 2026 22:02:00 +1000</lastBuildDate>
     <atom:link href="https://meisam81.github.io/soul-of-a-new-machine-audiobook/rss.xml" rel="self" type="application/rss+xml"/>
