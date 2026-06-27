@@ -17,7 +17,7 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <copyright>Original content © Tracy Kidder. This recording is a personal AI-narrated project.</copyright>
-    <lastBuildDate>Sat, 27 Jun 2026 21:26:00 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 22:02:00 +1000</lastBuildDate>
     <atom:link href="https://meisam81.github.io/soul-of-a-new-machine-audiobook/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -33,6 +33,21 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <itunes:episode>0</itunes:episode>
+    </item>
+
+    <item>
+      <title>Chapter 1 — How to Make a Lot of Money</title>
+      <itunes:title>Chapter 1 — How to Make a Lot of Money</itunes:title>
+      <description>Chapter 1 of Tracy Kidder's Pulitzer Prize-winning "The Soul of a New Machine." The story begins at Data General, where Tom West and his team of engineers are racing to build a new 32-bit minicomputer — the Eagle — before the competition beats them to it. A deep dive into the culture, pressure, and personalities of the computer industry in the late 1970s.</description>
+      <itunes:summary>Chapter 1 of Tracy Kidder's Pulitzer Prize-winning "The Soul of a New Machine." The story begins at Data General, where Tom West and his team of engineers are racing to build a new 32-bit minicomputer — the Eagle — before the competition beats them to it. A deep dive into the culture, pressure, and personalities of the computer industry in the late 1970s.</itunes:summary>
+      <link>https://meisam81.github.io/soul-of-a-new-machine-audiobook/episodes/chapter01.mp3</link>
+      <enclosure url="https://meisam81.github.io/soul-of-a-new-machine-audiobook/episodes/chapter01.mp3" length="39043628" type="audio/mpeg"/>
+      <guid isPermaLink="false">soul-of-a-new-machine-ch01</guid>
+      <pubDate>Sat, 27 Jun 2026 22:02:00 +1000</pubDate>
+      <itunes:duration>00:40:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
     </item>
 
   </channel>
