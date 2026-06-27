@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>The Soul of a New Machine — Audiobook</title>
+    <link>https://meisam81.github.io/soul-of-a-new-machine-audiobook/</link>
+    <language>en</language>
+    <description>Full audiobook of "The Soul of a New Machine" by Tracy Kidder, narrated by AI voices. A Pulitzer Prize-winning account of a computer engineering team racing to build a new machine at Data General in the late 1970s.</description>
+    <itunes:author>Tracy Kidder</itunes:author>
+    <itunes:owner>
+      <itunes:name>Meysam</itunes:name>
+      <itunes:email>meisam_81@yahoo.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <copyright>Original content © Tracy Kidder. This recording is a personal AI-narrated project.</copyright>
+    <lastBuildDate>Sat, 27 Jun 2026 21:26:00 +1000</lastBuildDate>
+    <atom:link href="https://meisam81.github.io/soul-of-a-new-machine-audiobook/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Prologue — A Good Man in a Storm</title>
+      <itunes:title>Prologue — A Good Man in a Storm</itunes:title>
+      <description>The prologue of Tracy Kidder's Pulitzer Prize-winning "The Soul of a New Machine." Tom West, a mysterious computer engineer, reveals his character during a stormy sailing trip off the coast of Maine — a portrait of the man who will lead a team of engineers to build a new minicomputer at Data General.</description>
+      <itunes:summary>The prologue of Tracy Kidder's Pulitzer Prize-winning "The Soul of a New Machine." Tom West, a mysterious computer engineer, reveals his character during a stormy sailing trip off the coast of Maine — a portrait of the man who will lead a team of engineers to build a new minicomputer at Data General.</itunes:summary>
+      <link>https://meisam81.github.io/soul-of-a-new-machine-audiobook/episodes/prologue.mp3</link>
+      <enclosure url="https://meisam81.github.io/soul-of-a-new-machine-audiobook/episodes/prologue.mp3" length="6939692" type="audio/mpeg"/>
+      <guid isPermaLink="false">soul-of-a-new-machine-prologue</guid>
+      <pubDate>Sat, 27 Jun 2026 21:26:00 +1000</pubDate>
+      <itunes:duration>00:07:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>0</itunes:episode>
+    </item>
+
+  </channel>
+</rss>
