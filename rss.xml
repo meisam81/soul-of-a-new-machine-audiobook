@@ -23,7 +23,7 @@
       <link>https://meisam81.github.io/soul-of-a-new-machine-audiobook/</link>
     </image>
     <copyright>Original content © Tracy Kidder. This recording is a personal AI-narrated project.</copyright>
-    <lastBuildDate>Sat, 27 Jun 2026 22:02:00 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:14:00 +1000</lastBuildDate>
     <atom:link href="https://meisam81.github.io/soul-of-a-new-machine-audiobook/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -39,6 +39,21 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <itunes:episode>0</itunes:episode>
+    </item>
+
+    <item>
+      <title>Chapter 2 — The Wars</title>
+      <itunes:title>Chapter 2 — The Wars</itunes:title>
+      <description>Chapter 2 of Tracy Kidder's Pulitzer Prize-winning "The Soul of a New Machine." Tom West sneaks into a building to physically disassemble DEC's VAX computer, the Eagle project gets its name, and the internal "wars" at Data General over who would build the 32-bit machine are laid bare. A story of corporate espionage, engineering rivalry, and the race to build a supermini.</description>
+      <itunes:summary>Chapter 2 of Tracy Kidder's Pulitzer Prize-winning "The Soul of a New Machine." Tom West sneaks into a building to physically disassemble DEC's VAX computer, the Eagle project gets its name, and the internal "wars" at Data General over who would build the 32-bit machine are laid bare. A story of corporate espionage, engineering rivalry, and the race to build a supermini.</itunes:summary>
+      <link>https://meisam81.github.io/soul-of-a-new-machine-audiobook/episodes/chapter02.mp3</link>
+      <enclosure url="https://meisam81.github.io/soul-of-a-new-machine-audiobook/episodes/chapter02.mp3" length="36281900" type="audio/mpeg"/>
+      <guid isPermaLink="false">soul-of-a-new-machine-ch02</guid>
+      <pubDate>Tue, 30 Jun 2026 08:14:00 +1000</pubDate>
+      <itunes:duration>00:37:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
     </item>
 
     <item>
