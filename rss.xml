@@ -23,8 +23,23 @@
       <link>https://meisam81.github.io/soul-of-a-new-machine-audiobook/</link>
     </image>
     <copyright>Original content © Tracy Kidder. This recording is a personal AI-narrated project.</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 08:14:00 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 17:00:00 +1000</lastBuildDate>
     <atom:link href="https://meisam81.github.io/soul-of-a-new-machine-audiobook/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Chapter 3 — Building a Team</title>
+      <itunes:title>Chapter 3 — Building a Team</itunes:title>
+      <description>Chapter 3 of Tracy Kidder's Pulitzer Prize-winning "The Soul of a New Machine." Tom West assembles his team of engineers in the basement of Westborough. We meet Carl Alsing, learn about West's pig roasts and his past at the Smithsonian, and see the culture of the Eclipse Group take shape — cubicles, late nights, and the peculiar language of computer engineers.</description>
+      <itunes:summary>Chapter 3 of Tracy Kidder's Pulitzer Prize-winning "The Soul of a New Machine." Tom West assembles his team of engineers in the basement of Westborough. We meet Carl Alsing, learn about West's pig roasts and his past at the Smithsonian, and see the culture of the Eclipse Group take shape — cubicles, late nights, and the peculiar language of computer engineers.</itunes:summary>
+      <link>https://meisam81.github.io/soul-of-a-new-machine-audiobook/episodes/chapter03.mp3</link>
+      <enclosure url="https://meisam81.github.io/soul-of-a-new-machine-audiobook/episodes/chapter03.mp3" length="31378220" type="audio/mpeg"/>
+      <guid isPermaLink="false">soul-of-a-new-machine-ch03</guid>
+      <pubDate>Tue, 30 Jun 2026 17:00:00 +1000</pubDate>
+      <itunes:duration>00:32:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
 
     <item>
       <title>Prologue — A Good Man in a Storm</title>
