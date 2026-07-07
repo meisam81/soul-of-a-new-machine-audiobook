@@ -23,8 +23,23 @@
       <link>https://meisam81.github.io/soul-of-a-new-machine-audiobook/</link>
     </image>
     <copyright>Original content © Tracy Kidder. This recording is a personal AI-narrated project.</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 17:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 22:00:00 +1000</lastBuildDate>
     <atom:link href="https://meisam81.github.io/soul-of-a-new-machine-audiobook/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Chapter 4 — Wallach's Golden Moment</title>
+      <itunes:title>Chapter 4 — Wallach's Golden Moment</itunes:title>
+      <description>Chapter 4 of Tracy Kidder's Pulitzer Prize-winning "The Soul of a New Machine." Steve Wallach, a brilliant young engineer, has his moment in the spotlight as the Eagle project's architecture takes shape. The team grapples with the VAX's shadow, and the basement culture deepens with late-night debugging sessions and the peculiar rituals of computer engineering.</description>
+      <itunes:summary>Chapter 4 of Tracy Kidder's Pulitzer Prize-winning "The Soul of a New Machine." Steve Wallach, a brilliant young engineer, has his moment in the spotlight as the Eagle project's architecture takes shape. The team grapples with the VAX's shadow, and the basement culture deepens with late-night debugging sessions and the peculiar rituals of computer engineering.</itunes:summary>
+      <link>https://meisam81.github.io/soul-of-a-new-machine-audiobook/episodes/chapter04.mp3</link>
+      <enclosure url="https://meisam81.github.io/soul-of-a-new-machine-audiobook/episodes/chapter04.mp3" length="31782956" type="audio/mpeg"/>
+      <guid isPermaLink="false">soul-of-a-new-machine-ch04</guid>
+      <pubDate>Tue, 07 Jul 2026 22:00:00 +1000</pubDate>
+      <itunes:duration>00:33:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
 
     <item>
       <title>Chapter 3 — Building a Team</title>
