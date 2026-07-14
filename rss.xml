@@ -23,8 +23,23 @@
       <link>https://meisam81.github.io/soul-of-a-new-machine-audiobook/</link>
     </image>
     <copyright>Original content © Tracy Kidder. This recording is a personal AI-narrated project.</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 22:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 19:15:00 +1000</lastBuildDate>
     <atom:link href="https://meisam81.github.io/soul-of-a-new-machine-audiobook/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Chapter 5 — Midnight Programmer</title>
+      <itunes:title>Chapter 5 — Midnight Programmer</itunes:title>
+      <description>Chapter 5 of Tracy Kidder's Pulitzer Prize-winning "The Soul of a New Machine." Carl Alsing introduces the author to "midnight programming" — the text adventure game that has swept through the basement of Westborough. Through the lens of Colossal Cave, we see the peculiar mindset of computer engineers: their love of puzzles, their patience with complexity, and the strange joy they find in getting lost in twisty little passages.</description>
+      <itunes:summary>Chapter 5 of Tracy Kidder's Pulitzer Prize-winning "The Soul of a New Machine." Carl Alsing introduces the author to "midnight programming" — the text adventure game that has swept through the basement of Westborough. Through the lens of Colossal Cave, we see the peculiar mindset of computer engineers: their love of puzzles, their patience with complexity, and the strange joy they find in getting lost in twisty little passages.</itunes:summary>
+      <link>https://meisam81.github.io/soul-of-a-new-machine-audiobook/episodes/chapter05.mp3</link>
+      <enclosure url="https://meisam81.github.io/soul-of-a-new-machine-audiobook/episodes/chapter05.mp3" length="44252972" type="audio/mpeg"/>
+      <guid isPermaLink="false">soul-of-a-new-machine-ch05</guid>
+      <pubDate>Tue, 14 Jul 2026 19:15:00 +1000</pubDate>
+      <itunes:duration>00:46:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+    </item>
 
     <item>
       <title>Chapter 4 — Wallach's Golden Moment</title>
