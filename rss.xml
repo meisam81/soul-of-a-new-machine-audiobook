@@ -23,8 +23,23 @@
       <link>https://meisam81.github.io/soul-of-a-new-machine-audiobook/</link>
     </image>
     <copyright>Original content © Tracy Kidder. This recording is a personal AI-narrated project.</copyright>
-    <lastBuildDate>Fri, 24 Jul 2026 14:10:00 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 16:35:00 +1000</lastBuildDate>
     <atom:link href="https://meisam81.github.io/soul-of-a-new-machine-audiobook/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Chapter 8 — The Wonderful Micromachines</title>
+      <itunes:title>Chapter 8 — The Wonderful Micromachines</itunes:title>
+      <description>Chapter 8 of Tracy Kidder's Pulitzer Prize-winning "The Soul of a New Machine." The Microteam's culture comes into focus — the Micropit, the microbus, the outdoor microlounge. We meet the young engineers who gave everything their "micro" prefix, and see how the team's peculiar rituals and camaraderie sustained them through the grinding pressure of debugging Eagle.</description>
+      <itunes:summary>Chapter 8 of Tracy Kidder's Pulitzer Prize-winning "The Soul of a New Machine." The Microteam's culture comes into focus — the Micropit, the microbus, the outdoor microlounge. We meet the young engineers who gave everything their "micro" prefix, and see how the team's peculiar rituals and camaraderie sustained them through the grinding pressure of debugging Eagle.</itunes:summary>
+      <link>https://meisam81.github.io/soul-of-a-new-machine-audiobook/episodes/chapter08.mp3</link>
+      <enclosure url="https://meisam81.github.io/soul-of-a-new-machine-audiobook/episodes/chapter08.mp3" length="29465132" type="audio/mpeg"/>
+      <guid isPermaLink="false">soul-of-a-new-machine-ch08</guid>
+      <pubDate>Fri, 24 Jul 2026 16:35:00 +1000</pubDate>
+      <itunes:duration>00:30:42</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
 
     <item>
       <title>Chapter 7 — La Machine</title>
