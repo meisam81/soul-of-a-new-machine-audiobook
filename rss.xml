@@ -23,8 +23,23 @@
       <link>https://meisam81.github.io/soul-of-a-new-machine-audiobook/</link>
     </image>
     <copyright>Original content © Tracy Kidder. This recording is a personal AI-narrated project.</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 02:42:00 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 14:10:00 +1000</lastBuildDate>
     <atom:link href="https://meisam81.github.io/soul-of-a-new-machine-audiobook/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Chapter 7 — La Machine</title>
+      <itunes:title>Chapter 7 — La Machine</itunes:title>
+      <description>Chapter 7 of Tracy Kidder's Pulitzer Prize-winning "The Soul of a New Machine." The debugging phase begins and the pressure mounts. West's office becomes a cage as the April deadline looms. The Hardy Boys work double shifts, the schedule slips "a week a week," and West — the master debugger — must stay away from the lab to prove he trusts his team. Meanwhile, news arrives that North Carolina is way behind, making Eagle's success a corporate necessity.</description>
+      <itunes:summary>Chapter 7 of Tracy Kidder's Pulitzer Prize-winning "The Soul of a New Machine." The debugging phase begins and the pressure mounts. West's office becomes a cage as the April deadline looms. The Hardy Boys work double shifts, the schedule slips "a week a week," and West — the master debugger — must stay away from the lab to prove he trusts his team. Meanwhile, news arrives that North Carolina is way behind, making Eagle's success a corporate necessity.</itunes:summary>
+      <link>https://meisam81.github.io/soul-of-a-new-machine-audiobook/episodes/chapter07.mp3</link>
+      <enclosure url="https://meisam81.github.io/soul-of-a-new-machine-audiobook/episodes/chapter07.mp3" length="43672364" type="audio/mpeg"/>
+      <guid isPermaLink="false">soul-of-a-new-machine-ch07</guid>
+      <pubDate>Fri, 24 Jul 2026 14:10:00 +1000</pubDate>
+      <itunes:duration>00:45:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+    </item>
 
     <item>
       <title>Chapter 6 — Flying Upside Down</title>
